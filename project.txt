@@ -1,3 +1,4 @@
 I want to learn how to use Git and GitHub effectively for software development.
 I want to learn how to use Git and GitHub effectively for software development.
 I would like to create a simple fighting game as a class project.
+My favorite programming language is Python.
